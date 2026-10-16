@@ -1,8 +1,6 @@
 # 🏠 WanderLust
 
 > A full-stack accommodation listing platform inspired by modern vacation-rental applications.
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2563eb?style=for-the-badge)](https://wanderlust-fmt4.onrender.com/listings)
 [![Node.js](https://img.shields.io/badge/Node.js-23.3.0-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express.js-5.x-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -391,26 +389,14 @@ Planned improvements include:
 - 📊 Admin dashboard
 - ⭐ Improved recommendation system
 
----
-
-## 🌐 Live Demo
-
-### [🚀 Visit WanderLust](https://wanderlust-fmt4.onrender.com/listings)
-
----
 
 ## 👨‍💻 Author
 
-### Anurag Yadav
+### Anurag Mishra
 
 Computer Science Engineering Student  
 Full-Stack Web Developer | Software Developer in the Making
 
-**GitHub:** [@6387anu](https://github.com/6387anu)
-
-**Project Repository:** [WanderLust](https://github.com/6387anu/WanderLust)
-
----
 
 <div align="center">
 
